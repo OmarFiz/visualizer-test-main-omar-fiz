@@ -11,7 +11,7 @@ const config = {
   messagingSenderId: '702664185241',
   appId: '1:702664185241:web:580752c50d570d0c89ef08'
 }
-
+/*
 //1- 20220126 OmarFiz connection with Fire
 firebase.initializeApp(firebaseConfig);
 
@@ -59,4 +59,4 @@ const matertialdoc = firebase
 
 matertialdoc.get().then((doc) => {
   console.log(" data in R4eHqq0Zi1Hb6GrP8JuV:", doc.data());
-});
+});*/
