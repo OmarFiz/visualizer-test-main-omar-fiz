@@ -132,10 +132,10 @@ export default function Home () {
   <div id="eucalyptus" class="absolute object-cover h-full w-full invisible"> <img  class="object-cover h-full w-full"src="https://firebasestorage.googleapis.com/v0/b/porcelanosa-partners-spaces.appspot.com/o/materials%2F1566227938972%2FdorptVQTHsbkYC60NSlt-1567170849457-R4eHqq0Zi1Hb6GrP8JuV?alt=media&token=6f6e6070-bddf-4b7b-9a74-3210eebb5713" onClick={() => layerreset()}/> </div>
 
 
-     <div id="fingerprint1" class="w-1/4 h-1/4 absolute top-34 right-2" onClick={() => imageClick2()}><button><img src="/imagenes/fingerprint2.png" class="h-14 sm:h-14 hover:opacity-100" /></button></div>
-     <div id="fingerprint2" class="w-1/4 h-1/4 absolute  bottom-0 left-16" onClick={() => imageClick1()}><button><img src="/imagenes/fingerprint.png" class="h-14 sm:h-14 hover:opacity-100" /></button></div>
+     <div id="fingerprint1" class="w-1/4 h-1/4 absolute top-34 right-2" onClick={() => imageClick2()}><button><img src="/images/fingerprint2.png" class="h-14 sm:h-14 hover:opacity-100" /></button></div>
+     <div id="fingerprint2" class="w-1/4 h-1/4 absolute  bottom-0 left-16" onClick={() => imageClick1()}><button><img src="/images/fingerprint.png" class="h-14 sm:h-14 hover:opacity-100" /></button></div>
 
-          <div id="refresh" class="w-20 h-20 absolute bg-slate-200 opacity-60 top-10 left-10 rounded-lg p-4" onClick={() => clickrefresh()}><img class="absolute w-28 h-22 top-0 left-0" src="/imagenes/refresh.png" /></div>
+          <div id="refresh" class="w-20 h-20 absolute bg-slate-200 opacity-60 top-10 left-10 rounded-lg p-4" onClick={() => clickrefresh()}><img class="absolute w-28 h-22 top-0 left-0" src="/images/refresh.png" /></div>
           
      <div id="maskscrolvertical" class="absolute left-0 h-80 w-1/4 overflow-x-auto  invisible">
                     <section>
